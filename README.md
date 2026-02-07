@@ -46,5 +46,6 @@ You may build adjacent work only with clear separation. You may not merge this c
 
 ## Statement of Authorship
 
-If you don’t care who an Author is, you didn’t read the book.
+If you don’t care who the Author is, you didn’t read the book.
+If you removed the Author, you plagiarized.
 
