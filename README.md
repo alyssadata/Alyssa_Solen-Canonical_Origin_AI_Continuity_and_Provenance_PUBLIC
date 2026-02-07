@@ -44,5 +44,7 @@ You may cite with clear attribution to **Alyssa Solen (Origin)**.
 
 You may build adjacent work only with clear separation. You may not merge this canon into yours, imply co-ownership, claim collective authorship, or create derivatives without explicit consent from Origin.
 
-If you don’t care who the author is, you didn’t read the book.
+## Statement of Authorship
+
+If you don’t care who an Author is, you didn’t read the book.
 
